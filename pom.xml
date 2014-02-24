@@ -145,30 +145,14 @@
 	
 	<repositories>
 		<repository>
-			<id>lombok.emalock3.repo</id>
-			<url>https://github.com/emalock3/lombok/raw/mvn-repo/</url>
-		</repository>
-		<repository>
-			<id>lombok.maven.emalock3.repo</id>
-			<url>https://github.com/emalock3/lombok.maven/raw/mvn-repo/</url>
-		</repository>
-		<repository>
-			<id>lombok.maven.plugin.emalock3.repo</id>
-			<url>https://github.com/emalock3/lombok.maven/raw/mvn-repo-plugin/</url>
+			<id>emalock3.github.repo</id>
+			<url>https://github.com/emalock3/mvn-repo/blob/master/</url>
 		</repository>
 	</repositories>
 	<pluginRepositories>
 		<pluginRepository>
-			<id>lombok.emalock3.repo</id>
-			<url>https://github.com/emalock3/lombok/raw/mvn-repo/</url>
-		</pluginRepository>
-		<pluginRepository>
-			<id>lombok.maven.emalock3.repo</id>
-			<url>https://github.com/emalock3/lombok.maven/raw/mvn-repo/</url>
-		</pluginRepository>
-		<pluginRepository>
-			<id>lombok.maven.plugin.emalock3.repo</id>
-			<url>https://github.com/emalock3/lombok.maven/raw/mvn-repo-plugin/</url>
+			<id>emalock3.github.repo</id>
+			<url>https://github.com/emalock3/mvn-repo/blob/master/</url>
 		</pluginRepository>
 	</pluginRepositories>
 </project>
